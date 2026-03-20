@@ -1,0 +1,10 @@
+[
+    {"amount": 1200, "category": "salary", "type": "Дохід"},
+    {"amount": 150, "category": "їжа", "type": "Витрата"},
+    {"amount": 80, "category": "розваги", "type": "Витрата"},
+    {"amount": 500, "category": "оренда", "type": "Витрата"},
+    {"amount": 200, "category": "freelance", "type": "Дохід"},
+    {"amount": 60, "category": "транспорт", "type": "Витрата"},
+    {"amount": 300, "category": "подарунок", "type": "Дохід"},
+    {"amount": 90, "category": "кафе", "type": "Витрата"}
+]
