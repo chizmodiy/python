@@ -1,0 +1,15 @@
+Функціонал:
+
+Клас Task: Має назву, пріоритет (Low, Medium, High) та статус (Done/Not Done).
+
+Клас TodoManager:
+
+Завантажує список завдань з tasks.json.
+
+Метод add_task(self, name, priority) — додає завдання.
+
+Метод mark_as_done(self, task_index) — змінює статус завдання.
+
+Метод show_tasks(self) — виводить список. Бонус: Використай enumerate, щоб кожне завдання мало номер.
+
+Метод clear_completed(self) — видаляє всі виконані завдання (використай List Comprehension).
