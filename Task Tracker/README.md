@@ -21,6 +21,7 @@
 
 # Task Tracker CLI
 **Project URL:** [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+https://roadmap.sh/projects/task-tracker
 
 ## 📂 Встановлення та запуск
 
@@ -30,3 +31,4 @@
 
 ```bash
 python task-cli.py [команда] [аргументи]
+
