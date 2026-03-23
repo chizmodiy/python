@@ -18,6 +18,10 @@
 - **Мова**: Python 3.x
 - **Бібліотеки**: `sys`, `json`, `datetime` (стандартні модулі, встановлення не потрібне).
 
+
+# Task Tracker CLI
+**Project URL:** [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## 📂 Встановлення та запуск
 
 1. Склонуйте репозиторій або скопіюйте файл проекту.
